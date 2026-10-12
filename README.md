@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Governance Service Analytics Dashboard
 
 > **Yuva Intern — Week 1: Strategic Planning and Data Analysis Framework Development**
@@ -137,3 +138,7 @@ See [`reports/WEEK1_REPORT_INTEGRATION.md`](reports/WEEK1_REPORT_INTEGRATION.md)
 
 Lucky Chaurasiya  
 GitHub: https://github.com/chaurasiyalucky241-cmd
+=======
+# e-governance-data-analysis
+Strategic planning and data analysis for e-governance services.
+>>>>>>> 338ceb0a21b7e608596366822e35965c65edaee5
