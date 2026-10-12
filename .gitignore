@@ -1,4 +1,5 @@
 __pycache__/
+<<<<<<< HEAD
 *.py[cod]
 .venv/
 .env
@@ -6,3 +7,12 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+=======
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+outputs/
+*.pyc
+.DS_Store
+>>>>>>> 30e1d279d6c9d468eec831a2122d9ae67f83fc50
